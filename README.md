@@ -1,0 +1,1 @@
+This is the Tribute Page from FCC's Responsive Web Design Projects.
